@@ -8,6 +8,7 @@ public class Main {
         // 查看 IntelliJ IDEA 建议如何修正。
         System.out.printf("Hello git1");
         System.out.printf("Hello git2");
+        System.out.printf("Hello git3");
 
     }
 }
