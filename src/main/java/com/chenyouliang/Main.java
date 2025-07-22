@@ -10,6 +10,7 @@ public class Main {
         System.out.printf("Hello git2");
         System.out.printf("Hello git3");
         System.out.printf("Hello git4");
+        System.out.printf("master test");
 
     }
 }
